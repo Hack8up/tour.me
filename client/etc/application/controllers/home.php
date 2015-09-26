@@ -95,6 +95,21 @@ Class Home extends CI_Controller {
      {
        redirect('login', 'refresh');
      }
+ }
+
+ function r5feed()
+ {
+  if($this->session->userdata('logged_in'))
+     {
+       $session_data = $this->session->userdata('logged_in');
+       $data['fname'] = $session_data['fname'];
+       $data['username'] = $session_data['username'];
+       $this->load->view('feed_view', $data);
+     }
+     else
+     {
+       redirect('login', 'refresh');
+     }
 
  }
 

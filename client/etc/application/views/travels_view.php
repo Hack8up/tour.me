@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>TourME - Home</title>
+    <title>TourME - Home | Travels</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.5 -->
@@ -12,8 +12,8 @@
     <!-- Ionicons -->
     <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
     <!-- fullCalendar 2.2.5-->
-    <link rel="stylesheet" href="../plugins/fullcalendar/fullcalendar.min.css">
-    <link rel="stylesheet" href="../plugins/fullcalendar/fullcalendar.print.css" media="print">
+    <link rel="stylesheet" href="/enigma/web/plugins/fullcalendar/fullcalendar.min.css">
+    <link rel="stylesheet" href="/enigma/web/plugins/fullcalendar/fullcalendar.print.css" media="print">
     <!-- Theme style -->
     <link rel="stylesheet" href="/enigma/web/dist/css/AdminLTE.min.css">
     <!-- AdminLTE Skins. Choose a skin from the css/skins
@@ -254,7 +254,7 @@
                   <!-- Menu Footer-->
                   <li class="user-footer">
                     <div class="pull-right">
-                      <a href="/home/logout" class="btn btn-default btn-flat">Sign out</a>
+                      <a href="/enigma/web/home/logout" class="btn btn-default btn-flat">Sign out</a>
                     </div>
                   </li>
                 </ul>

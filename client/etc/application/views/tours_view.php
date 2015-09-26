@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>TourME - Home</title>
+    <title>TourME - Home | Tours</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.5 -->
@@ -334,7 +334,7 @@
             <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/tiles/tile_3.png" style="height: 200px; width: auto;"></div>
             <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/tiles/tile_4a.png" style="height: 200px; width: auto;"></div>
             <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/tiles/tile_4b.png" style="height: 200px; width: auto;"></div>
-            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/tiles/tile_5.png" style="height: 200px; width: auto;"></div>
+            <div class="col-lg-3 col-xs-6"><a href="/enigma/web/home/r5feed"><img src="/enigma/web/img/tiles/tile_5.png" style="height: 200px; width: auto;"></a></div>
           </div>
           <br />
           <div class="row">

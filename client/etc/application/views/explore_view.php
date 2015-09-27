@@ -40,9 +40,9 @@
     <div class="wrapper">
       <header class="main-header">
         <!-- Logo -->
-        <a href="/enigma/web/index2.html" class="logo">
+        <a href="/enigma/web/home" class="logo">
           <!-- mini logo for sidebar mini 50x50 pixels -->
-          <span class="logo-mini"><b>A</b>LT</span>
+          <span class="logo-mini"><b>T.</b>ME</span>
           <!-- logo for regular state and mobile devices -->
           <span class="logo-lg"><img src="/enigma/web/img/tour_icon.png" style="height: 30px; width: auto;"> Tour.me</span>
         </a>
@@ -541,7 +541,7 @@
             // initialize a map - this map is centered over Europe
             var map = new H.Map(document.getElementById('map'),
               defaultLayers.normal.map,{
-              center: ncr,
+              center: {lat: 12.391513, lng: 122.497559},
               zoom: 6
             });
 

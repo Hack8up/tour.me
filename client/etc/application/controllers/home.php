@@ -113,6 +113,21 @@ Class Home extends CI_Controller {
 
  }
 
+ function culture()
+ {
+  if($this->session->userdata('logged_in'))
+     {
+       $session_data = $this->session->userdata('logged_in');
+       $data['fname'] = $session_data['fname'];
+       $data['username'] = $session_data['username'];
+       $this->load->view('culture_view', $data);
+     }
+     else
+     {
+       redirect('login', 'refresh');
+     }
+ }
+
  function logout()
  {
    $this->session->unset_userdata('logged_in');

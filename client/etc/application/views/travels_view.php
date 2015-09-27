@@ -33,7 +33,7 @@
 
       <header class="main-header">
         <!-- Logo -->
-        <a href="/enigma/web/index2.html" class="logo">
+        <a href="/enigma/web/home" class="logo">
           <!-- mini logo for sidebar mini 50x50 pixels -->
           <span class="logo-mini"><b>A</b>LT</span>
           <!-- logo for regular state and mobile devices -->
@@ -393,7 +393,7 @@
         <div class="pull-right hidden-xs">
           <b>Version</b> 2.3.0
         </div>
-        <strong>Copyright &copy; 2014-2015 <a href="http://almsaeedstudio.com">Almsaeed Studio</a>.</strong> All rights reserved.
+        <strong>Copyright &copy; 2014-2015 <a href="/enigma/web/home">Tour.ME</a>.</strong> All rights reserved.
       </footer>
 
       <!-- Control Sidebar -->

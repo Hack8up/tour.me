@@ -303,20 +303,528 @@
               <nav class="special-nav">
                 <ul>
                   <li class="ul-navigation"><a href="#">Activities</a></li>
-                  <li class="ul-navigation"><a href="#">Cuisines</li>
-                  <li class="ul-navigation"><a href="#">Festivities</li>
-                  <li class="ul-navigation active"><a href="#">Tours</li>
+                  <li class="ul-navigation active"><a href="#">Culture</li>
+                  <li class="ul-navigation"><a href="/enigma/web/home/r5feed">Tours</li>
                 </ul>
               </nav>
               <br/>
           </div>
         </section>
-        <section class="content-header">
+        <section class="content-header"style="background:url(/enigma/web/img/q1.png); background-size:100%">
           <h1>
-            Explore Bicol!
+            Coron Festival
           </h1>
           <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"> <img src="/enigma/web/img/f1.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+               A showcase of events highlighted by a street presentation participated in by the town’s different public and private schools and sectors gives a week of fun and merriment to visitors and locals. The religious package of devotion and prayer in honor of Albay’s patroness, Nuestra Señora de Salvacion (Our Lday of Salvation), is the peak event of the festival, colorfully drawing thousands of devotees and religious groups through a long maritime procession of different local sea vessels on the sea spray of the serene Pacific ocean going to the quiet barangay of Joroan, the home of the miraculous image.
+
+            </div>
+
+          </div>
+          <br />
+      
+      
+      <h1>
+            Kadagatan Festival
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/f2.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+              The Kadagatan Festival is held every Black Saturday in the town od Bacacay. It is originally a race among bancas (boats) called “bancathon.”
+The first Bancathon Race was held in 1982, coinciding with Black Saturday of the Holy Week, the traditional Catholic celebration of the passion of Jesus Christ at Roca Baluarte, one of the historical tourist sites in Bacacay of the Province of Albay.Innovations in the competition were conceived to add more color and excitement to the race. Other sea crafts were included in that race such as balsa an casco.The inclusion of other types of sea crafts had expanded the annual sea race with participants from other coastal areas in Albay and neighboring regions in the country. These various races had likewise invited more spectators to witness the grand race, prompting the local organizers to alter the name of Bancathon.In the year 2000, the local government unit of Bacacay took note of the increasing interest in the yearly maritime spectable by passing a legislative act that officially changed it from Bancathon to Kadagatan Festival, holding it as usual every Black Saturday.
+ 
+            </div>
+
+          </div>
+          <br />
+      
+      
+      <h1>
+            Magayon Festival
+          </h1>
+          <br />
+
+
+          <div class="row" style="padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/f3.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+            Held every month of May, Magayon Festival relives the origin of Mayon Volcano. The festival features sports and cultural events and trade fairs. The focus of the event is the stage reenactment of the tragic love story of the legend of Daragang Magayon and Panganoron whose fatal deaths gave birth to the volcano. Legend has it that Magayon’s grave became Mayon while the clouds kissing her is Panganoron.
+            </div>
+
+          </div>
+          <br />
+      
+     <h1>
+           Tabak Festival
+          </h1>
+          <br />
+
+
+          <div class="row" style="padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/f5.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+             The Tabak Festival is helsd every last week of March in Tabaco City, Albay.  It is a week-long activity held in time with the City’s Foundation Anniversary. Street presentation depicting the city’s legend, trade fairs of the growing cutlery industry, woodcraft and pili, colorful parades and the Mutya ng Tabak Search highlights the event.
+            </div>
+
+          </div>
+          <br />    
+
+      <h1>
+            Sarung Banggi Festival
+          </h1>
+          <br />
+
+
+          <div class="row" style="padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/f4.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+      Sarung Banggi Festival is an annual fun-filled eight-day summer festivity immortalizing the timeless love song Sarung Banggi, and a tribute to its composer, Potenciano V. Gregorio. Held every May 18th-25th in Sto. Domingo, the Sarung Banggi festival showcases a variety of cultural and religious activities. The entire colorful performance is shown at nighttime when the street parade routes are brightly lighted with large torches. The whole town becomes a true picture of rural life with the multitude of people occupying the streets to watch and join the nighttime merriment.
+            </div>
+
+          </div>
+          <br />      
+      
+      <h1>
+            Pilgrimage to Joroan
+          </h1>
+          <br />
+
+
+          <div class="row" style="padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/f6.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+            This yearly pilgrimage to Nuestra Señora de Salvacion, the patroness of Albay, is highlighted by a maritime procession and a concelebrated Mass on the shores of Sogod Beach. Thousands of pilgrims from different places flock to pay homage to the Marian image.  This pilgrimage is done every 3rd Saturday of August, in Tiwi , Albay.
+            </div>
+
+          </div>
+          <br />
+      
+      <h1>
+            Pinangat/Laing
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/f14.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+      Pinangat or Laing-Pinangat na Isda is a Filipino Fish dish. There are two popular versions of Pinangat: the sour version using bilimbi (kamias); and the Bicol version with gata. This recipe is the sour version. Pinangat na Isda is one of the simple Filipino Food that I like eating.
+            </div>
+
+          </div>
+          <br />      
+      
+      <h1>
+            Kandingga/Bopis
+          </h1>
+          <br />
+
+
+          <div class="row" style="padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/f9.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+      Bopis is a piquant Philippine dish of pork or beef lungs and heart sautéed in tomatoes, chilies and onions. Classified as pulutan in Philippine cuisine, bopis is served with alcoholic beverages.
+            </div>
+
+          </div>
+          <br />      
+      
+      <h1>
+            Bicol Express
+          </h1>
+          <br />
+
+
+          <div class="row" style="padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/f17.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+      Bicol Express is a popular Filipino dish which was popularized in the district of Malate, Manila but made in traditional Bicolano style. It is a stew made from long chilies (siling mahaba in Tagalog, lada panjang in Malay/Indonesian), coconut milk, shrimp paste or stockfish, onion, pork, and garlic. It is said to have been inspired by the fiery Bicolano dish gulay na may lada, which is nowadays presented as one of the many variants of Bicol Express.Bicol Express was named after the passenger train service from Manila to the Bicol region, a region in the Philippines famous for its spicy cuisine.
+            </div>
+
+          </div>
+          <br />      
+      
+      <h1>
+            Pili Candy
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/f13.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+            Albay Pilinut Candy is the first pili nut candy factory in the Bicol Region. Today, Albay Pilinut Candy continues to serve high quality confections and candies made from Bicol’s famous pili nut. It remains a family business, giving its products that distinct quality and taste that makes people coming back for more.
+            </div>
+
+          </div>
+          <br />      
+      
+      <h1>
+            Chili Ice Cream
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/f16.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+      The sili ice cream is one of the most popular. The curious tourists usually look for this ice cream and get amazed by its unusual flavor,” 1st Colonial Grill Area Supervisor Jing Muñoz says.The sili ice cream has a distinct spice and kick, which is perfect for the adventurous food lovers. Because of its popularity, the ice cream flavor has been part of the extra challenges in hit American shows like “Survivor CamSur” and “The Amazing Race.” The sili ice cream uses powdered siling labuyo.
+            </div>
+
+          </div>
+          <br />      
+      
+      <h1>
+            Kinunot
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/f10.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+            Kinunot may be considered as an exotic dish originating from the Bicol region since the main ingredients for this dish, aside from the coconut milk, are fishes like pating (shark) and pagi (sting-ray).  What makes this dish interesting is that, like its relative the Laing which is also a Bicol delicacy, this dish is awesomely and deliciously fiery hot. The name kinunot comes from the word kunot which literally means shredded or to shred. 
+            </div>
+
+          </div>
+          <br />      
+      
+      <h1>
+            Ginataang Labong
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/f7.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+            This is Ginataang Labong at Hipon. Labong or Bamboo shoots is a vegetable that is rich in fiber and has very few calories. Combined with shrimp and coconut milk, this dish is absolutely delicious.
+            </div>
+
+          </div>
+          <br />      
+      
+      <h1>
+            Ginataang Santol
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/f8.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+            Bicolanos tend to use coconut milk to any dish because of the abundance of coconut in the region. One of the famous ginataan (a dish with coconut milk) from Bicol is the ginataang santol. The meat of the santol fruit is cooked in coconut milk. No one imagined that the extremely sour fruit would be a very delicious viand. Other famous ginataan recipes from Bicol are the ginataang puso ng saging (banana blossom cooked in coconut milk) and the sigarilyas sa gata (Winged Beans cooked in coconut milk).
+            </div>
+
+          </div>
+          <br />      
+      
+      <h1>
+            Pansit Bato
+          </h1>
+          <br />
+
+
+          <div class="row" style="padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/f12.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+            Pancit Bato is a noodle dish that closely resembles pancit canton. This originated in the province of Camarines Sur, Bicol region in a municipality known as Bato. I think that it is clear where this noodle dish got its name.
+
+          </div>
+          <br />
+    </div>
+
+      <h1>
+            Sinapot
+          </h1>
+          <br />
+
+
+          <div class="row" style="background-image:url(web/img/header_albay.png); padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/f15.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+      Fried bananas, naked or battered, are some of my all-time favorite snacks or desserts. There is something about saba or cooking bananas that is just so comforting.
+
+            </div>
+
+          </div>
+          <br />
+
+      <h1>
+            San Gregorio Magno Cathedral
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/a5.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+            The Cathedral of St. Gregory the Great is also known locally as the Cathedral of San Gregorio Magno and Albay Cathedral. It is the Episcopal Seat of the Diocese of Legazpi and it is one of the massive churches found in the City where one can have a good view of Mt. Mayon Volcano on a clear day. St. Gregory the Great Cathedral was created in 1834 through the kindness of Pedro Romero. The first church was buried in 1754 and ruined during the Mayon Volcano eruption. Its facade has a semicircular arched main entrance with portico, flanked by niches and coupled columns on pedestals supporting the triangular pediments. The Cathedral is the Episcopal Seat of the Diocese of Legazpi City and one of the largest bishoprics in the Philippines.
+            </div>
+
+          </div>
+          <br />
+      
+      <h1>
+            St. Raphael Church
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/a10.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+            The original church was built in 1834 through the generosity of Pedro Romero. This church was extensively damaged in the Second World War and has since been reconstructed to its present form. This church has a unique attractions, the present St. Raphael Church is its altar table made of a single block of solid hardened lava. The feast day of St. Raphael, the Archangel is held every 24th of the month in October which is also celebrated as the fiesta of Legazpi Port.
+            </div>
+
+          </div>
+          <br />
+
+      <h1>
+            Legazpi Landing Site
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/b1.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+            The jet age came to Legazpi in the late 1960s and by the 1970s Philippine Airlines (PAL) introduced regular service to/from Manila using British Aircraft Corporation's BAC 1-11s. In the late 1980s PAL introduced Boeing 737-300s. YS-11s provided airlink to Mactan, Cebu, Masbate, and Virac. When PAL phased out the YS-11s and the short-lived Shorts SD-360 'Sunriser,' Fokker 50s replaced them. Before the debilitating labor strike in 1998 which caused PAL to temporarily cease operation, Legazpi Airport served as the airline's hub in Bicol, serving Manila, Cebu, Masbate, Virac, even Catarman in Samar. Today, it serves local clients and transient passengers from southern Camarines Sur and the province of Sorsogon.
+            </div>
+
+          </div>
+          <br />
+      
+      <h1>
+            St. Stephen Protomartyr Church
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/a6.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+      St. Stephen Protomartyr Church
+            
+            </div>
+
+          </div>
+          <br />      
+      <h1>
+            Saint John the Baptist Parish Church
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/a2.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+      Built from 1864 to 1879, the Tabaco Church is made of adobe blocks held together by molasses and lime.The tower is the belfry of the St. John the Baptist Parish Church, or commonly known as Daculang Simbahan (Big Church)
+            </div>
+
+          </div>
+          <br />      <h1>
+            St. Rose of Lima
+          </h1>
+          <br />
+
+
+          <div class="row" style="b padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/a1.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+            St. Rose of Lima-Bacacay’s first St. Rose de Lima Church had meter thick walls of volcanic rocks and high windows that served as observation lodges for possible pirate attacks. It was built by the Franciscans in 1660.
+            </div>
+
+          </div>
+          <br />      
+      
+      <h1>
+            St. John the Baptist
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/a9.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+      St. John the Baptist
+      
+            </div>
+
+          </div>
+          <br />    
+
+      <h1>
+            Our Lady of the Church
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/a3.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+      Our Lady of the Church
+            </div>
+
+          </div>
+          <br />      <h1>
+            Cagsawa Ruins
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/c1.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+        Situated in Albay, Cagsawa Ruins is a historical landmark that serves as the centerpiece of the Cagsawa Ruins Park where tourists can enjoy the scenic view of Mayon Volcano.Cagsawa was derived from the word “Kag” which means owner and “sawa” for python. It could also mean too much or excesses. The Cagsawa church was built after 1724 by the Franciscan friars and was administered by Fray Francisco Blanco in the small town of Cagsawa.
+            </div>
+
+          </div>
+          <br />    
+
+      <h1>
+            Our Lady of Assumption
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/a4.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+      Our Lady of Assumption
+             
+            </div>
+
+          </div>
+          <br />     
+
+      <h1>
+            St. Peter and Paul Church
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/a7.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+            St. Peter and Paul Church
+            </div>
+
+          </div>
+          <br />    
+
+      <h1>
+            San Lorenzo Church
+          </h1>
+          <br />
+
+
+          <div class="row" style="padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/a8.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+            San Lorenzo Church
+            </div>
+
+          </div>
+          <br />      
+      
+      <h1>
+            Japanese Tunnel
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/d1.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+      Japanese Tunnel
+            
+            </div>
+
+          </div>
+          <br />      
+      
+      <h1>
+            Smith, Bell & Co. Trading House
+          </h1>
+          <br />
+
+
+          <div class="row" style=" padding: 2%; margin-left: 10px; margin-right: 10px;">
+
+            <div class="col-lg-3 col-xs-6"><img src="/enigma/web/img/d2.png" style="width:220px; height:auto; "></div>
+            <div class="col-lg-9 col-xs-6">
+
+      Smith, Bell & Co. Trading House
+            </div>
+
+              
+      
+    
+          <br />
+
+
         </section>
+
 
         <!-- Main content -->
         <section class="content">

@@ -257,7 +257,7 @@
           <ul class="sidebar-menu">
             <li class="header">MAIN NAVIGATION</li>
             <li>
-              <a href="#">
+              <a href="/enigma/web/home">
                 <i class="fa fa-user"></i> <span>Profile</span> </i>
               </a>
             </li>

@@ -302,7 +302,7 @@
               <img src="/enigma/web/img/header_albay.png" style="width: 1200px; height: auto">
               <nav class="special-nav">
                 <ul>
-                  <li class="ul-navigation"><a href="#">Activities</a></li>
+                  <li class="ul-navigation"><a href="http://reg5.blgf.gov.ph/">Region 5 Official Website</a></li>
                   <li class="ul-navigation active"><a href="#">Culture</li>
                   <li class="ul-navigation"><a href="/enigma/web/home/r5feed">Tours</li>
                 </ul>
